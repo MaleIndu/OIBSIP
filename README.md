@@ -1,22 +1,28 @@
-# 🌦️ OIBSIP Task 4 - Weather App (JavaScript)
+# 💬 OIBSIP Task 5 - Chat Application
 
-This is a simple Weather App built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Internship - Task 4**.
-
-The app uses the **OpenWeatherMap API** to fetch real-time weather data based on city names entered by the user.
+This is a simple browser-based chat app created using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Internship - Task 5**.
 
 ---
 
-## 🔧 Features
-
-- Real-time weather based on user input.
-- Displays:
-  - Temperature (°C)
-  - Weather description (e.g., clear sky, rain)
-  - Humidity
-  - Wind speed
+## 🚀 Features
+- Send and receive messages
+- Simulated bot replies
+- Responsive UI
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-Made by Male Indu for Oasis Infobyte Internship 2025.
+---
+
+## 📂 How to Run
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Start chatting!
+
+---
+
+### 👨‍💻 Made by Male Indu for Oasis Infobyte Internship 2025.
