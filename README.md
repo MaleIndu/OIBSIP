@@ -1,23 +1,22 @@
-# OIBSIP - Password Generator
+# 🌦️ OIBSIP Task 4 - Weather App (JavaScript)
 
-This is a simple GUI-based password generator created as part of the Oasis Infobyte Internship (Task 3).
+This is a simple Weather App built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Internship - Task 4**.
 
-## 💡 Features
+The app uses the **OpenWeatherMap API** to fetch real-time weather data based on city names entered by the user.
 
-- Enter desired password length
-- Generates strong random passwords using letters, digits, and special characters
-- Simple and clean GUI using Tkinter
+---
 
-## 📁 Files
+## 🔧 Features
 
-- `password_generator_gui.py`: Python script with GUI.
-- `requirements.txt`: Dependency information.
-- `README.md`: Project description.
+- Real-time weather based on user input.
+- Displays:
+  - Temperature (°C)
+  - Weather description (e.g., clear sky, rain)
+  - Humidity
+  - Wind speed
 
-## ▶️ How to Run
+---
 
-1. Install Python (if not already).
-2. Run the script using:
+## 📂 Project Structure
 
-```bash
-python password_generator_gui.py
+Made by Male Indu for Oasis Infobyte Internship 2025.
