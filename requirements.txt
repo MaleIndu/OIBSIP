@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+requests
+wolframalpha
+ecapture
+pyaudio
+
+#.\venv\Scripts\Activate.ps1   
+#python voice_assistant_g_one.py 
